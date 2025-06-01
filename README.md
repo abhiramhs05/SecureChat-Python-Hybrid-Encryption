@@ -31,7 +31,7 @@ A secure chat application using hybrid encryption (RSA + AES), developed as part
 
 1. Clone the repository:
 bash
-   git clone https://github.com/abhiramhs05/SecureChatPythonHybridEncryption.git
+   git clone https://github.com/abhiramhs05/SecureChat-Python-Hybrid-Encryption.git
    cd SecureChatPythonHybridEncryption
 
 
